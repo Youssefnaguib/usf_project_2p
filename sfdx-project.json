@@ -5,7 +5,7 @@
       "default": true
     }
   ],
-  "name": "usf_project_2p",
+  "name": "demo_Tekunda_101",
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "55.0"
